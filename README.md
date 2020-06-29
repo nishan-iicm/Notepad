@@ -1,3 +1,3 @@
 ## Notepad 
 # Online editor
-![](Screenshot(268).png)
+![](Screenshot%20(268).png)
